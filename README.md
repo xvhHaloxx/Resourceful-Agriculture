@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# Resouceful Agriculture
 
-## Setup
+## Download
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Click on the .jar file and it will download the mod.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This template is available under the MIT Licence.
