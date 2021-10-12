@@ -2,7 +2,7 @@
 
 ## Download
 
-Click on the .jar file and it will download the mod.
+Click on the .jar file and click "Download File".
 
 ## License
 
