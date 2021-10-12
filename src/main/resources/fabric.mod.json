@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "resagri",
+  "version": "${version}",
+
+  "name": "Resourceful Agriculture",
+  "description": "Adds more crops to the game!",
+  "authors": [
+    "Haloxx"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "MIT",
+  "icon": "assets/resagri/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "haloxx.resourceful.agriculture.ResAgri"
+    ],
+    "client": [
+      "haloxx.resourceful.agriculture.RenderCrops"
+    ]
+  },
+  "mixins": [
+    "resagri.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
