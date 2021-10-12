@@ -2,7 +2,7 @@
 
 ## Download
 
-Click on the .jar file and click "Download File".
+Click on the .jar file and click "Download".
 
 ## License
 
